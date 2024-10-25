@@ -1,2 +1,13 @@
-# tic-tac-toe
-This is Tic-Tac-Toe!
+# Tic-Tac-Toe
+
+### Problem to Solve
+
+TODO
+
+### Understanding
+
+TODO
+
+### Specification
+
+TODO
